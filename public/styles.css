@@ -1,0 +1,49 @@
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+  }
+  
+  .navbar {
+    background-color: #343a40 !important;
+  }
+  
+  h1 a {
+    color: #17a2b8 !important;
+  }
+  
+  input[type="file"] {
+    border: 1px solid #17a2b8;
+  }
+  
+  .btn-outline-primary {
+    color: #17a2b8;
+    border-color: #17a2b8;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #17a2b8;
+    color: white;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #cce5ff;
+  }
+  
+  .table-striped tbody tr:nth-of-type(even) {
+    background-color: #e2e3e5;
+  }
+  
+  .btn-primary {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .font-monospace {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
